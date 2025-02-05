@@ -2,9 +2,15 @@
     margin: 0px;
     padding: 0px;
     background-color: black;
+    box-sizing: border-box;
 }
 
 header{
+    
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
     
 }
 
