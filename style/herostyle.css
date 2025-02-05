@@ -1,6 +1,37 @@
-.hero{
+*{
+    margin: 0px;
+    padding: 0px;
     background-color: black;
+}
+
+header{
+    
+}
+
+.container{
+    background-color: black;
+    width: 97vw;
+    height: 97vh;
     color: white;
     text-align: center;
     padding: 16px;
 }
+
+.image{
+    width: 50%;
+    margin: auto;
+    border-radius: 50%;
+    background-size: cover;
+   
+    
+}
+
+.image:hover{
+    transition: all;
+    transition-duration: 0.2s;
+    transform: scale(105%);
+}
+
+
+
+
