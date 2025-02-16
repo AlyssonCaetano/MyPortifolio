@@ -13,8 +13,8 @@
     overflow: hidden;
     position: relative;
 
-    --background: linear-gradient(to right, #13b37f 0%, #11a3c8 100%);
-    padding: 0.7rem;
+    --background: linear-gradient(to right, #1358b3 0%, #c4e8f1 100%);
+    padding: 0.1rem;
     border-radius: 0.7rem;
     overflow: visible;
     background: #f7ba2b;
@@ -44,7 +44,8 @@
 .project-info{
   --color: #1f1a1d;
   background: var(--color);
-  color: var(--color);
+  /* color: var(--color); */
+  padding: 2rem;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -62,16 +63,22 @@
 }
 
 /*Hover*/
-.card:hover::after {
+.project-card:hover::after {
   opacity: 0.6;
   padding: 0.7rem 0;
   top: 18px;
   transition: 0.6s;
 }
 
-.card:hover .card-info {
+.project-card:hover .project-info {
   color: #fff9f9;
   transition: color 1s;
+}
+
+.project-links{
+  width: 100%;
+  justify-content:center;
+  align-items: center;
 }
 
 
