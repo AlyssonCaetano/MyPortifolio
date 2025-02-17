@@ -1,3 +1,13 @@
+
+header {
+  background: #000000;
+  padding: 20px;
+  text-align: center;
+}
+header h1 {
+  font-size: 2em;
+}
+
 /* Container dos projetos usando grid responsivo */
 .projects-container {
     display: grid;
@@ -108,7 +118,7 @@
     font-size: 1.5em;
     margin-right: 10px;
     transition: transform 0.3s ease;
-    color: #00ff87;
+    color: rgb(17, 0, 255);
   }
   .tech-icons i:hover {
     transform: scale(1.2);
@@ -119,14 +129,17 @@
     justify-content: space-between;
   }
   .project-links a {
-    text-decoration: none;
-    color: #fff;
-    background: #00ff87;
+    width: 90px;
+    text-decoration: solid;
+    color: #000000;
+    background: #ffffff;
     padding: 8px 12px;
+    text-align: center;
     border-radius: 4px;
     transition: background 0.3s ease;
     font-size: 0.9em;
   }
   .project-links a:hover {
-    background: #00cc6c;
+    background: #3261fc83;
+    color: #c4e8f1;
   }
