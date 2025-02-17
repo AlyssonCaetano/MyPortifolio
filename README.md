@@ -7,6 +7,8 @@ Estou construindo meu portfólio aos poucos, com base no que vou aprendendo na m
 Projetos práticos baseados no que estou estudando no momento.
 Pequenos desafios e exercícios para aprimorar minhas habilidades.
 Melhorias contínuas nos códigos à medida que aprendo novas técnicas.
+
+
 💡 Objetivo
 Este repositório é um espaço para testar, aprender e compartilhar meu crescimento no desenvolvimento. Fique à vontade para explorar, dar sugestões ou contribuir!
 
