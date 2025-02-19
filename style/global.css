@@ -121,9 +121,6 @@
   }
 
 
-
-
-
   /* adaptação de
    https://uiverse.io/Cornerstone-04/bitter-impala-54 */
 
@@ -186,3 +183,15 @@
     transition: .3s transform linear, .3s height linear .5s;
   }
 
+
+
+  /* header */
+
+  header {
+    background: #000000;
+    padding: 20px;
+    text-align: center;
+  }
+  header h1 {
+    font-size: 2em;
+  }
