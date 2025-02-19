@@ -12,17 +12,6 @@
     line-height: 1.6;
   }
 
-  
-
-  /* Cabeçalho da página */
-  header {
-    background: #000000;
-    padding: 20px;
-    text-align: center;
-  }
-  header h1 {
-    font-size: 2em;
-  }
 
   /* Container principal */
   .container {
