@@ -1,12 +1,5 @@
 
-header {
-  background: #000000;
-  padding: 20px;
-  text-align: center;
-}
-header h1 {
-  font-size: 2em;
-}
+
 
 /* Container dos projetos usando grid responsivo */
 .projects-container {
