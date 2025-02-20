@@ -103,19 +103,7 @@
     margin-bottom: 15px;
     line-height: 1.5;
   }
-  /* Ícones das tecnologias */
-  .tech-icons {
-    margin-bottom: 15px;
-  }
-  .tech-icons i {
-    font-size: 1.5em;
-    margin-right: 10px;
-    transition: transform 0.3s ease;
-    color: rgb(255, 255, 255);
-  }
-  .tech-icons i:hover {
-    transform: scale(1.2);
-  }
+
   /* Links para código e site */
   .project-links {
     display: flex;
