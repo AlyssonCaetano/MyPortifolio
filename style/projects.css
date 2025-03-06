@@ -104,6 +104,10 @@
     line-height: 1.5;
   }
 
+  ul li{
+    font-size: 0.75em;
+  }
+
   /* Links para código e site */
   .project-links {
     display: flex;
