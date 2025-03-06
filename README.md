@@ -1,4 +1,4 @@
-# 🚀 Meu Portfólio em Construção  
+# 🚀 Meu Portfólio (em construção)
 
 Bem-vindo ao meu repositório!  
 
